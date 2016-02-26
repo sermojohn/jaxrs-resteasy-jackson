@@ -1,0 +1,28 @@
+{
+  "counter": 2,
+  "totalTime": 10,
+  "results": [
+    {
+      "url": null,
+      "representation": {
+        "paths": [
+          {
+            "key": "1",
+            "value": "2"
+          }
+        ]
+      }
+    },
+    {
+      "url": null,
+      "representation": {
+        "paths": [
+          {
+            "key": "a",
+            "value": "BB"
+          }
+        ]
+      }
+    }
+  ]
+}
